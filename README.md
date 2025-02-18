@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Flutter environment diagnostics command
 
-  flutter doctor
+    flutter doctor
 
 # Global Firebase CLI installation command
 
