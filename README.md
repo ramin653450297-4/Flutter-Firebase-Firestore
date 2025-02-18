@@ -8,26 +8,27 @@ A new Flutter project.
 
 # Global Firebase CLI installation command
 
-  npm install -g firebase-tools@13.30.0
+      npm install -g firebase-tools@13.30.0
 
 # FlutterFire Firebase configuration command
 
-  flutterfire configure
+      flutterfire configure
 
 # Add pub library
 
-  flutter pub add cloud_firestore
-  flutter pub add firebase_core
+      flutter pub add cloud_firestore
+      flutter pub add firebase_core
+      flutter pub add firebase_auth
 
 # Flutter project cleanup command
 
-  flutter clean
+          flutter clean
 
 # Flutter package retrieval command
 
-  flutter pub get
+      flutter pub get
 
 # Flutter application execution command
 
-  flutter run
+      flutter run
 
